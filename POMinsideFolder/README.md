@@ -1,0 +1,2 @@
+# POMinsideFolder
+Sample application.
